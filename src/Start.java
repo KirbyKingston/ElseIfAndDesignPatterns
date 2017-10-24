@@ -1,13 +1,11 @@
 
 import javax.swing.JOptionPane;
 
-
-
 /**
  *
  * @author Mitch
  */
-public class ElseIfAlternatives {
+public class Start {
     
     public static void main(String[] args) {
         
